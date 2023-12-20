@@ -14,7 +14,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
-        ~ Saqlain - Not a Dev ~
+        ~ 「Saqlain」 ♥ Not a Dev ~
       </b>
     </samp>
   </p>
