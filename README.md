@@ -16,7 +16,7 @@
       </span>
       <br>
       <b>
-        ~ 「Saqlain ♥」 • Not a Dev (yet) ~
+        ~ 「 Saqlain ♥ 」 • Not a Dev (yet) ~
       </b>
     </samp>
   </p>
