@@ -24,7 +24,7 @@
 <br>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary style="color:green"><samp><b>More Info</b></samp></summary>
 
 <h2></h2><br>
 
