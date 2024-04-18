@@ -26,7 +26,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=notsaqlain&theme=blux&locale=it" alt="GitHub Streak"  />
+  <img src="https://streak-stats.demolab.com?user=notsaqlain&theme=transparent&locale=it" alt="GitHub Streak"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=notsaqlain&theme=blux&locale=it" alt="GitHub Streak"  /> -->
 </div>
 
 ###
