@@ -23,6 +23,14 @@
 
 <br>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <details>
 <summary style="color:green"><samp><b>More Info</b></samp></summary>
 
@@ -65,6 +73,6 @@
     </tr>
   </table>
 </div>
-
 </details>
+
 </div>
