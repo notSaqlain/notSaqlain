@@ -55,7 +55,6 @@
   </samp>
 </p>
 
-
 <!-- Github Trophy -->
 <div align="center">
   <table>
