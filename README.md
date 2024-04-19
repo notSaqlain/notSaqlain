@@ -24,14 +24,10 @@
 
 <br>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=notSaqlain&theme=transparent&locale=it&date_format=M%20j%5B%2C%20Y%5D&fire=36BCF7&ring=36BCF7&currStreakNum=36BCF7&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=36BCF7&excludeDaysLabel=36BCF7" alt="GitHub Streak"  />
   <!-- <img src="https://streak-stats.demolab.com?user=notsaqlain&theme=blux&locale=it" alt="GitHub Streak"  /> -->
 </div>
-
-###
 
 <details>
 <summary style="color:green"><samp><b>More Info</b></samp></summary>
