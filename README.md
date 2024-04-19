@@ -12,7 +12,7 @@
       </b>
       <br>
       <span align="center">
-        <image src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=40&pause=1000&random=false&width=435&lines=Coding+for+the+perfect+blend+of+beauty!;Codifico+per+la+bellezza+perfetta!" alt="Typing SVG">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=31&pause=1000&random=false&width=435&lines=Coding+for+the+perfect+blend+of+beauty!;Codifico+per+la+bellezza+perfetta!" alt="Typing SVG">
         <!-- <image src="https://readme-typing-svg.herokuapp.com?font=Grandstander&pause=1000&color=7FF73F&center=true&vCenter=true&random=false&width=435&lines=Coding+for+the+perfect+blend+of+beauty!;++++Codifica+per+la+bellezza+perfetta!"> --> 
       </span>
       <br>
