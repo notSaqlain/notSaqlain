@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Saqlain, a Student, I like Penguins and Apples, but I don't like Windows.
+        I'm Saqlain, a Student, I like Penguins and Apples.
       </b>
       <br>
       <span align="center">
